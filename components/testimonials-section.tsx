@@ -8,7 +8,7 @@ import Image from "next/image"
 const testimonials = [
   {
     id: 1,
-    name: "Priya Sharma",
+    name: "Sakshi Sharma",
     role: "Beauty Blogger",
     image: "/placeholder.svg?height=80&width=80",
     rating: 5,
@@ -16,7 +16,7 @@ const testimonials = [
   },
   {
     id: 2,
-    name: "Anjali Patel",
+    name: "Kumari Supragya",
     role: "Makeup Artist",
     image: "/placeholder.svg?height=80&width=80",
     rating: 5,
@@ -24,7 +24,7 @@ const testimonials = [
   },
   {
     id: 3,
-    name: "Meera Reddy",
+    name: "Samiksha Sharma",
     role: "Skincare Enthusiast",
     image: "/placeholder.svg?height=80&width=80",
     rating: 5,
